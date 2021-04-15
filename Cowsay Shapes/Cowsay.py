@@ -1,0 +1,20 @@
+import cowsay
+# print(cowsay.char_names)
+name = input('Enter your name : ')
+string = f'Hello {name}'
+
+cowsay.daemon(string)
+cowsay.cow(string)
+cowsay.dragon(string)
+cowsay.beavis(string)
+cowsay.cheese(string)
+cowsay.ghostbusters(string)
+cowsay.kitty(string)
+cowsay.meow(string)
+cowsay.milk(string)
+cowsay.pig(string)
+cowsay.stegosaurus(string)
+cowsay.stimpy(string)
+cowsay.turkey(string)
+cowsay.turtle(string)
+cowsay.tux(string)
