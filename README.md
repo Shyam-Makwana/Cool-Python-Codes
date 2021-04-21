@@ -4,3 +4,26 @@ Python is one of the best programming languages. Due to its readability and begi
 
 ## Python Codes with Source Codes:
 If you’re a newbie to Python where you’ve just learned lists, tuples, dictionaries, and some basic Python modules like the random module, here are some Python projects with source code.
+
+*   Audio Book
+*   BMI Calculator
+*   Cowsay Shapes
+*   Currency Converter
+*   Dice Roll Simulator
+*   Email Slicer
+*   Extract Keywords SEO
+*   Fizz Buzz
+*   Invoice Generator
+*   Madlibs Game
+*   Password Generator
+*   Phone Number Info
+*   Print Colored Text
+*   QR Code Generator
+*   Quiz Game
+*   RPS Game
+*   Roman to Dec Converter
+*   Set Alarm
+*   Short Form
+*   Story Generator
+*   Temp Converter
+*   Weather Info
