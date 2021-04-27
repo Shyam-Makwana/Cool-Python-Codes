@@ -28,4 +28,4 @@ If you’re a newbie to Python where you’ve just learned lists, tuples, dictio
 *   Temp Converter
 *   Weather Info
 
-![python](https://res.cloudinary.com/wdwfsdp/image/upload/v1619537853/ca0060f3414e6e20b75983acddafad53_os4t3z.gif)
+![python](https://res.cloudinary.com/wdwfsdp/image/upload/v1619537750/f2px36fy_uon3mt.gif)
